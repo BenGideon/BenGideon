@@ -19,7 +19,7 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saideep2000&theme=default" alt="Profile Details" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saideep2000&theme=default" alt="Profile Details" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saideep2000&theme=default" alt="GitHub Streak" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saideep2000&theme=default" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saideep2000&theme=default" alt="Repos per Language" />
