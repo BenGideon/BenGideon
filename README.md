@@ -27,6 +27,8 @@
 
 <h2 align="center">📂 Projects 📂</h2>
 
+<!--
+
 ### Caption Craft
 **Full Stack, GenAI, React.js, Node.js, MongoDB, MaterialUI, Express, Socket.io, Jest, Docker, helm, Kubernetes**
 - Developed a social networking platform using the **MERN stack**, focusing on creativity and image generation from text. 
@@ -46,6 +48,7 @@
 - Employed **TypeScript** for type-safe code and **Jest** for testing, reducing potential bugs by **20%**.
 - Enhanced user interactions with **WebSockets** for real-time updates and **REST API** for various operations.
 
+-->
 
 <!-- ### Facial Emotion Recognition System
 **MLOps, TensorFlow, PyTorch, Flask, DVC, Airflow, GitHub Actions** 
@@ -80,6 +83,8 @@
 - Integrated email functionality and ensured mobile responsiveness, concluding with app deployment to shared hosting. -->
 
 
+<!--
+
 <h2 align="center">🌐 Connect with Me 🌐</h2>
 <p align="center">
   <a href="[https://www.linkedin.com/in/saideep-samineni/](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -87,6 +92,20 @@
   <a href="https://github.com/BenGideon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <!--   <a href="https://gideon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a> -->
 </p>
+
+-->
+
+<h2 align="center">🌐 Connect with Me 🌐</h2>
+
+<p align="center">
+	<a href="https://" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/BenGideon" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/bengideondokiburra/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+	<a href="https://www.instagram.com/gideon4s/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:bengideondokiburra@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
 
 <h2 align="center">💼 Experience 💼</h2>
 
