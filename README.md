@@ -17,13 +17,7 @@
 - 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**.
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/) | [Email](mailto:bengideondokiburra@gmail.com)
 
-## ⚡ GitHub Stats ⚡
-<p align="center">
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saideep2000&theme=default" alt="Profile Details" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saideep2000&theme=default" alt="GitHub Streak" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saideep2000&theme=default" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saideep2000&theme=default" alt="Repos per Language" />
-</p>
+
 
 ## 📂 Projects 📂
 
@@ -119,16 +113,6 @@ intuitive front-end interface in React.js for real-time analytics and reporting.
 
 -->
 
-## 🌐 Connect with Me 🌐
-
-<p align="center">
-	<a href="https://" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/BenGideon" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/bengideondokiburra/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://www.instagram.com/gideon4s/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:bengideondokiburra@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
 
 
 ## 💼 Experience 💼
@@ -154,6 +138,18 @@ streamlining data workflows and enhancing operational insights.
 predictive maintenance and inventory management.
 - Redesigned and updated the website to reflect the latest insights from data models, enhancing the user experience and
 providing real-time operational dashboards for component management.
+
+
+## 🌐 Connect with Me 🌐
+
+<p align="center">
+	<a href="https://" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/BenGideon" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/bengideondokiburra/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+	<a href="https://www.instagram.com/gideon4s/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:bengideondokiburra@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
 
 ## 💡 Skills 💡
@@ -215,6 +211,15 @@ providing real-time operational dashboards for component management.
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>
 </p>
+
+## ⚡ GitHub Stats ⚡
+<p align="center">
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saideep2000&theme=default" alt="Profile Details" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saideep2000&theme=default" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saideep2000&theme=default" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saideep2000&theme=default" alt="Repos per Language" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
