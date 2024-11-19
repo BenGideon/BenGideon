@@ -15,7 +15,7 @@
 - 👀 With over **2 years of experience** as a **Software Engineer**, I specialize in developing scalable, efficient cloud-based solutions using technologies such as **Java, Python, Flask, React, Node.js, AirFlow, Matplotlib, Docker, Kubernetes, and AWS**.
 - 💞️ I am passionate about solving real-world problems by creating and automating applications that enhance performance and save time.
 - 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**.
-- 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/) | [Email](mailto:bdokiburra@uh.edu)
+- 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/) | [Email](mailto:bengideondokiburra@gmail.com)
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <p align="center">
@@ -112,9 +112,24 @@
 
 ### Associate Software Developer
 **Accenture Privated Limited | Aug 2021 - May 2023**
+- Worked for Bank of America to calculate the exposure values for predicting and handling the loss incurred when the
+borrower defaults on payment. Automated over ten manual processes using Python scripts, resulting in a significant 65
+percent reduction in the time spent analyzing data.
+- Analyzed business requirements and developed test plans, scripts, and use cases to meet testing goals while validating
+SQL queries. Executed complex database queries to extract information for reporting and analysis. Collaborated
+effectively with geographically dispersed teams (UK, India, and US), leading to a 70 percent customer satisfaction rate.
+- Experience with Kanban (Agile) framework, QA methodology, JIRA, and qTest by working on weekly regression and
+monthly releases. Reported critical bugs early in the development cycle, leading to a 50 percent substantial impact on
+the team deliverables.
 
 ### Software Engineer Intern
 **Plural Technologies Private Limited | Jan 2021 - Jun 2021**
+- Developed and deployed machine learning models as part of the ”ML Ops: Scaling AI for Large Enterprises” project,
+streamlining data workflows and enhancing operational insights.
+- Conducted in-depth analysis of aeroplane autoparts datasets, applying machine learning techniques to optimize
+predictive maintenance and inventory management.
+- Redesigned and updated the website to reflect the latest insights from data models, enhancing the user experience and
+providing real-time operational dashboards for component management.
 
 
 <h2 align="center">💡 Skills 💡</h2>
