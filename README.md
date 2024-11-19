@@ -27,9 +27,33 @@
 
 ## 📂 Projects 📂
 
-<!--
+### Virtual Storefront
+**Full Stack, React.js, Node.js, Express.js, GraphQL, Stripe API, MongoDB**
+- Developed a Convenience Store Website using React.js for the frontend, creating a dynamic, responsive, and user-friendly
+interface for browsing products, placing orders, and managing deliveries.
+- Built the backend using Node.js with Express.js, leveraging GraphQL for efficient data fetching, and handling user
+authentication, order processing, and real-time inventory updates.
+- Integrated secure payment gateways and order tracking features using Stripe API and Twilio, providing a seamless and
+secure checkout experience for users.
 
-### Caption Craft
+### Disaster Response Management System
+**Full Stack, React.js, Node.js, Express.js, Docker, MongoDB, Twilio API, AWS**
+- Developed a React.js dashboard enabling real-time disaster response with features for live updates, volunteer tracking,
+and dynamic resource allocation.
+- Built a secure Node.js backend for incident reporting and access control, with Twilio API integration for instant SMS
+alerts; deployed via Docker on AWS to ensure scalability, using MongoDB for structured storage of volunteer, resource,
+and incident records.
+
+### Financial Risk Management System
+**Python, SQL, React.js, Node.js, Docker, Azure**
+- Designed a financial risk management platform for real-time monitoring and analysis of transactional risk metrics,
+enhancing early warning systems for potential credit and operational risks.
+- Developed and deployed backend services in Python and Node.js to automate risk calculation models and streamline data
+ingestion workflows.
+- Utilized Azure for scalable cloud deployment, integrated with Docker for containerized environments, and created an
+intuitive front-end interface in React.js for real-time analytics and reporting.
+
+<!-- ### Caption Craft
 **Full Stack, GenAI, React.js, Node.js, MongoDB, MaterialUI, Express, Socket.io, Jest, Docker, helm, Kubernetes**
 - Developed a social networking platform using the **MERN stack**, focusing on creativity and image generation from text. 
 - Implemented over **30+ REST API endpoints** using **Express** and **Node.js**.
@@ -85,7 +109,7 @@
 
 <!--
 
-## 🌐 Connect with Me 🌐
+
 <p align="center">
   <a href="[https://www.linkedin.com/in/saideep-samineni/](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:bdokiburra@uh.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -95,7 +119,7 @@
 
 -->
 
-<h2 align="center">🌐 Connect with Me 🌐</h2>
+## 🌐 Connect with Me 🌐
 
 <p align="center">
 	<a href="https://" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
@@ -132,7 +156,7 @@ predictive maintenance and inventory management.
 providing real-time operational dashboards for component management.
 
 
-<h2 align="center">💡 Skills 💡</h2>
+## 💡 Skills 💡
 
 ### Languages
 <p float="left">
