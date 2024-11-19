@@ -18,7 +18,7 @@
 - 👋 Hi, I’m **Ben Gideon Dokiburra**, currently pursuing a **Master's in Computer Science** at **University of Houston, Houston**.
 - 👀 With over **2 years of experience** as a **Software Engineer**, I specialize in developing scalable, efficient cloud-based solutions using technologies such as **Java, Python, Flask, React, Node.js, AirFlow, Matplotlib, Docker, Kubernetes, and AWS**.
 - 💞️ I am passionate about solving real-world problems by creating and automating applications that enhance performance and save time.
-- 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**.
+<!-- - 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**. -->
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/) | [Email](mailto:bengideondokiburra@gmail.com)
 
 <!--
