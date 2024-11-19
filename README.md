@@ -17,7 +17,7 @@
 - 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**.
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/) | [Email](mailto:bengideondokiburra@gmail.com)
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+## ⚡ GitHub Stats ⚡
 <p align="center">
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saideep2000&theme=default" alt="Profile Details" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saideep2000&theme=default" alt="GitHub Streak" />
