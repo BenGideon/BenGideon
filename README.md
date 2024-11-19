@@ -25,7 +25,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saideep2000&theme=default" alt="Repos per Language" />
 </p>
 
-<h2 align="center">📂 Projects 📂</h2>
+## 📂 Projects 📂
 
 <!--
 
@@ -85,7 +85,7 @@
 
 <!--
 
-<h2 align="center">🌐 Connect with Me 🌐</h2>
+## 🌐 Connect with Me 🌐
 <p align="center">
   <a href="[https://www.linkedin.com/in/saideep-samineni/](https://www.linkedin.com/in/ben-gideon-d-ab4b7818b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:bdokiburra@uh.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -107,7 +107,7 @@
 </p>
 
 
-<h2 align="center">💼 Experience 💼</h2>
+## 💼 Experience 💼
 
 
 ### Associate Software Developer
