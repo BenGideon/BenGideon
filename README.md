@@ -1,10 +1,12 @@
 <!-- README Intro -->
 <h2 align='center'>Hello! I am Ben Gideon Dokiburra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 <h1 align="center">
-	<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
+	
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=6A2595&vCenter=true&width=435&height=45&lines=Full-stack+Developer;Cloud+Engineer;Data+Engineer;Open+Source+Contributor">
+	  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=6A2595&vCenter=true&width=435&height=45&lines=Full-stack+Developer;Cloud+Engineer;Data+Engineer;Open+Source+Contributor;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=380&height=45">
+    <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
 	  
 </p>
   </a>
