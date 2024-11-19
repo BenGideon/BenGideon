@@ -3,6 +3,9 @@
 <h1 align="center">
   <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=6A2595&vCenter=true&width=435&height=45&lines=Full-stack+Developer;Cloud+Engineer;Data+Engineer;Open+Source+Contributor">
+	  <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
+</p>
   </a>
 </h1>
 
@@ -142,7 +145,7 @@ providing real-time operational dashboards for component management.
 
 ## 🌐 Connect with Me 🌐
 
-<p align="center">
+<p>
 	<a href="https://" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/BenGideon" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/bengideondokiburra/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -221,9 +224,7 @@ providing real-time operational dashboards for component management.
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
-</p>
+
 
 <!-- Footer
 <p align="center">
